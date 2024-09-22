@@ -1,0 +1,19 @@
+{
+  "name": "6.0-bhagwad-gita-summary",
+  "version": "1.0.0",
+  "description": "It's a site which will guide you thorugh your life by providing the summary of bhagwad gita in both English as well as Hindi language.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "node": "^22.9.0",
+    "nodemon": "^3.1.7"
+  }
+}
